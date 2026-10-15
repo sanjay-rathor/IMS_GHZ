@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Korvich Slam';
+    src: url('KorvichSlam.woff2') format('woff2'),
+        url('KorvichSlam.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Korvich Slam';
+    src: url('KorvichSlam_1.woff2') format('woff2'),
+        url('KorvichSlam_1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

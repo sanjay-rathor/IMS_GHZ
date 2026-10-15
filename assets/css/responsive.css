@@ -1,0 +1,1309 @@
+@media (max-width: 2000px) {
+     .star-box{
+        padding: 60px 30px;
+    }
+     .edgeSlider .swiper-slide-active .edge-box h4{
+        bottom: 70px;
+    }
+     .scholarships::after {
+        width: calc(100% - 400px);
+        height: 46%;
+    }
+    .scholarships .cli {
+        margin-top: 80px;
+    }
+    .campus{
+        margin-top: -280px;
+    }
+}
+@media (max-width: 1800px) {
+    .edgeSlider .swiper-slide-active .edge-box h4{
+        bottom: 70px;
+    }
+    .star-box{
+        padding: 60px 30px;
+    }
+   .scholarships::after {
+        width: calc(100% - 400px);
+        height: 46%;
+    }
+    .scholarships .cli {
+        margin-top: 80px;
+    }
+      .planame figure img {
+        height: 660px;
+    }
+
+}
+
+@media (max-width: 1700px) {
+
+    .building {
+        width: 555px;
+    }
+    .star-box {
+        padding: 50px 20px;
+    }
+
+    .scholarships .cli {
+        margin-top: 80px;
+    }
+    .scholarships .cli .clip h4 {
+        font-size: 20px;
+    }
+        .scholarships::after {
+        width: calc(100% - 300px);
+        height: 46%;
+    }
+    .planame figure img {
+        height: 660px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .container {
+        padding: 0 150px;
+    }
+
+    .banner .admi h5 {
+        font-size: 25px;
+    }
+
+    .banner {
+        padding: 0px 0 60px;
+    }
+
+    .banner .admi .ad {
+        display: flex;
+        background: #c8deffe6;
+        padding: 20px;
+        width: 80%;
+        justify-content: center;
+    }
+
+    .banner h1 {
+        font-size: 22px;
+    }
+
+    .banner h2 {
+        font-size: 75px;
+    }
+
+    .banner h3 {
+        font-size: 34px;
+    }
+
+    .banner h4 {
+        padding: 30px 0 50px;
+        font-size: 20px;
+    }
+
+    .banner .admi .ad .item {
+        padding: 0 20px;
+    }
+
+    .banner .admi .ad p {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 45px;
+    }
+
+    .corporate h3 {
+        font-size: 7.5vw;
+    }
+
+    .scholarships h3 {
+        font-size: 25px;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+
+    .scholarships .cri .item ul li {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+        font-size: 17px;
+    }
+
+    .scholarships .nav .nav-link {
+        padding: 0 0 15px;
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+
+    .scholarships::after {
+        width: calc(100% - 300px);
+        height: 40%;
+    }
+
+    .scholarships .cli .clip h4 {
+        font-size: 20px;
+    }
+
+    .scholarships .cli .clip {
+        padding: 70px 50px;
+    }
+
+    .fullCon::after {
+        width: calc(100% - 150px);
+    }
+
+    .fullCon .col-lg-6 {
+        margin-top: -330px;
+    }
+
+    .nm figcaption {
+        font-size: 30px;
+        padding-bottom: 25px;
+        margin-top: 70px;
+    }
+
+    .nm figcaption span {
+        font-size: 20px;
+    }
+
+    .fullCon .row {
+        --bs-gutter-x: 0;
+    }
+
+
+    .degree .swiper-slide img {
+        max-width: 160px;
+        height: 70px;
+    }
+
+
+    .degree figure {
+        width: 221px;
+    }
+
+    .clip {
+        height: 250px;
+        width: 250px;
+    }
+
+    .bortext h4,
+    .campus .heading h2 {
+        font-size: 200px;
+    }
+
+    .bortext {
+        top: -45px;
+    }
+
+    .footbg {
+        margin-top: -382px;
+    }
+
+    .campus .heading {
+        right: -54px;
+    }
+
+    .clip {
+        top: -80px;
+        right: -65px;
+    }
+
+    .innercon {
+        width: 290px;
+    }
+
+    .placecon h3 {
+        font-size: 50px;
+    }
+
+    .placecon {
+        width: 90%;
+    }
+
+    .building {
+        width: 550px;
+    }
+
+    .planame figure img {
+        height: 850px;
+    }
+
+    .planame figure img {
+        height: 620px;
+    }
+
+    .scholarships .cli {
+        display: flex;
+        gap: 50px;
+        margin-top: -20px;
+        padding-right: 100px;
+    }
+      .fullCon {
+        padding: 100px 0px 160px 100px;
+    }
+}
+
+
+@media(max-width: 1500px) {
+    .degree figure {
+        width: 200px;
+    }
+
+    .building {
+        width: 550px;
+    }
+    .star-box {
+        padding: 40px 20px;
+    }
+  
+
+
+    .immersion p {
+        padding-right: 95px;
+    }
+
+    .bortext h4,
+    .campus .heading h2 {
+        font-size: 200px;
+        letter-spacing: -4px;
+    }
+
+    .bortext {
+        top: -45px;
+    }
+
+    .clip {
+        height: 240px;
+        width: 240px;
+        top: -72px;
+    }
+
+    .clip h3 {
+        font-size: 59px;
+    }
+
+    .footbg {
+        margin-top: -310px;
+    }
+
+    .campus .heading {
+        right: -76px;
+    }
+}
+
+@media(max-width:1400px) {
+    .form-sec {
+        top: 12%;
+    }
+
+    .logo {
+        left: 30px;
+        top: 30px;
+        width: 200px;
+    }
+
+    .banner .admi h5 {
+        font-size: 20px;
+    }
+
+    .banner h2 {
+        font-size: 65px;
+    }
+
+    .banner h1 {
+        font-size: 18px;
+    }
+
+    .banner h3 {
+        font-size: 29px;
+    }
+
+    .banner h4 {
+        font-size: 18px;
+    }
+
+    .banner .admi .ad p {
+        font-size: 14px;
+    }
+
+    .banner .admi .ad h6 {
+        font-size: 30px;
+    }
+
+    .banner .admi .ad h6 span {
+        font-size: 16px;
+        top: -9px;
+    }
+
+    .banner .admi .ad .item {
+        padding: 0 15px;
+    }
+
+    h2 {
+        font-size: 38px;
+    }
+
+    p,
+    li {
+        font-size: 20px;
+    }
+
+    .scholarships h3 {
+        font-size: 20px;
+        padding: 8px;
+    }
+
+    .scholarships .cri .item ul li {
+        padding-bottom: 13px;
+        margin-bottom: 13px;
+        font-size: 14px;
+    }
+
+    .scholarships .nav .nav-link {
+        padding: 0 0 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .scholarships .cli .clip {
+        height: 15vw;
+        width: 15vw;
+        padding: 60px 40px;
+    }
+
+    .scholarships .cli .clip h4 {
+        font-size: 14px;
+    }
+
+    .scholarships .cli {
+        margin-top: -83px;
+    }
+
+    .fullCon {
+        padding: 60px 0px 140px 60px;
+    }
+
+    .nm figcaption {
+        font-size: 25px;
+        padding-bottom: 20px;
+        margin-top: 45px;
+    }
+
+    .placecon h3 {
+        font-size: 40px;
+    }
+
+    .planame figure img {
+        height: 650px;
+    }
+
+    .building {
+        width: 514px;
+    }
+
+    .placecon {
+        padding: 97px 70px;
+    }
+
+    .innercon {
+        width: 210px;
+    }
+
+
+    .building {
+        width: 455px;
+        bottom: 0;
+    }
+
+    .innercon {
+        width: 220px;
+    }
+
+    .placecon {
+        padding: 65px 40px;
+    }
+
+    .building {
+        width: 411px;
+    }
+
+    /* .scholarships .cli {
+        margin-top: -30px;
+    } */
+    .scholarships .cli {
+        margin-top: -10px;
+    }
+    .scholarships::after {
+        width: calc(100% - 300px);
+        height: 39%;
+    }
+    .planame figure img {
+        height: 450px;
+    }
+
+}
+
+@media(max-width:1300px) {
+    .container {
+        padding: 0 120px;
+    }
+
+    .scholarships::after {
+        width: calc(100% - 240px);
+    }
+
+    .fullCon::after {
+        width: calc(100% - 120px);
+    }
+
+    .star-sec h3 {
+        font-size: 52px;
+    }
+
+    .star-sec p {
+        font-size: 18px;
+    }
+
+    .edge-box h4 {
+        bottom: 60px;
+        font-size: 20px;
+    }
+
+    /* .scholarships .cli {
+        margin-top: -20px;
+    } */
+     .scholarships .cli {
+        margin-top: 5px;
+    }
+     .planame figure img {
+        height: 440px;
+    }
+    .scholarships .cli .clip h4 {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:1200px) {
+    .banner {
+        padding: 160px 0 40px;
+        height: auto;
+    }
+
+    .container {
+        padding: 0 50px;
+    }
+
+    .logo {
+        left: 2%;
+        top: 2%;
+        width: 160px;
+    }
+
+    .banner .admi h5 {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    p,
+    li {
+        font-size: 18px;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    .scholarships .cri .item ul li {
+        padding-bottom: 11px;
+        margin-bottom: 11px;
+        font-size: 12px;
+    }
+
+    .scholarships::after {
+        width: calc(100% - 100px);
+        height: 37%;
+    }
+
+    .scholarships .cli {
+        gap: 0px;
+    }
+
+    .scholarships .cli .clip h4 {
+        font-size: 14px;
+    }
+
+    .fullCon::after {
+        width: calc(100% - 50px);
+    }
+
+   .fullCon .col-lg-6 {
+        margin-top: -300px;
+    }
+
+    .edge-box h4 {
+        bottom: 60px;
+        font-size: 20px;
+    }
+
+    .degree figure {
+        width: 153px;
+    }
+
+    .immersion p {
+        padding-right: 40px;
+    }
+    
+
+
+
+    .placecon {
+        width: 85%;
+    }
+
+    .placecon {
+        padding-bottom: 33px;
+    }
+
+    .planame figure img {
+        height: 530px;
+    }
+
+    .bortext h4,
+    .campus .heading h2 {
+        font-size: 140px;
+    }
+
+    .bortext {
+        top: -31px;
+    }
+
+    .clip h3 {
+        font-size: 50px;
+    }
+
+    .clip {
+        height: 180px;
+        width: 180px;
+        top: -70px;
+    }
+
+    .footbg {
+        margin-top: -279px;
+    }
+
+    .placecon h3 small {
+        font-size: 20px;
+    }
+
+    .manRight-box p {
+        font-size: 16px;
+    }
+
+    .manRight-box {
+        margin-top: 40px;
+    }
+
+    .num-sec {
+        padding: 0;
+        margin-top: -30px;
+    }
+
+    .building {
+        width: 380px;
+    }
+
+    .degree figure {
+        width: 200px;
+    }
+    .fullCon {
+        padding: 60px 0px 140px 60px;
+    }
+   
+}
+
+@media(max-width:992px) {
+    .banner {
+        padding: 120px 0 30px;
+    }
+
+    .banner h1 {
+        font-size: 14px;
+    }
+
+    .banner h2 {
+        font-size: 50px;
+    }
+
+    .banner h3 {
+        font-size: 23px;
+    }
+
+    .banner h4 {
+        font-size: 14px;
+        padding: 20px 0 30px;
+    }
+
+    .banner .admi {
+        flex-direction: column;
+    }
+
+    .banner .admi .ad {
+        width: 100%;
+    }
+
+    .banner .admi h5 {
+        font-size: 16px;
+        width: fit-content;
+        margin: 0 0 30px;
+        padding-bottom: 10px;
+    }
+
+    .banner .admi .ad p {
+        font-size: 12px;
+    }
+
+    .scholarships .cli {
+        margin-top: 0;
+        padding: 0 20px;
+        justify-content: center;
+    }
+
+    .scholarships .cli .clip {
+        height: 25vw;
+        width: 25vw;
+    }
+
+    .scholarships .cri .item ul {
+        padding: 0 20px;
+    }
+
+    .scholarships .nav li {
+        width: 33%;
+    }
+
+    .scholarships::after {
+        height: 39%;
+    }
+
+    .lftSlider .swiper-pagination-bullet {
+        background: #e6b820;
+    }
+
+    .lftSlider .swiper-pagination-bullet-active {
+        background: #00418d;
+    }
+
+    .fullCon .col-lg-6 {
+        margin-top: 0;
+    }
+
+    .edge-box h4 {
+        bottom: 80px;
+        font-size: 20px;
+    }
+
+    .star-sec p {
+        font-size: 12px;
+    }
+
+    .star-sec h3 {
+        font-size: 32px;
+    }
+
+    .star-sec h3 sup {
+        top: -13px;
+        font-size: 16px;
+    }
+
+    .star-box {
+        padding: 25px 10px;
+    }
+
+    .manRight-box h4 {
+        font-size: 18px;
+    }
+
+    .manRight-box p {
+        width: 100%;
+        font-size: 14px
+    }
+
+    .num-boxx h3 {
+        font-size: 32px;
+    }
+
+    .num-boxx h3 sup {
+        top: -8px;
+    }
+
+    .num-boxx p {
+        font-size: 16px;
+    }
+
+    .placement {
+        padding: 60px 0;
+    }
+
+    .placecon {
+        width: 100%;
+    }
+
+    .building,
+    .planame {
+        display: none;
+    }
+
+    .footbg {
+        margin: 0;
+    }
+
+    .campus .heading {
+        right: 0;
+    }
+
+    .clip {
+        top: -80px;
+        right: 0;
+    }
+
+    section.campus .col-lg-4 p {
+        text-align: center;
+        margin-top: -39px;
+    }
+
+    .footbg {
+        padding-top: 0;
+    }
+
+    .innercon {
+        width: 210px;
+        text-align: center;
+
+    }
+
+    .placecon h3 {
+        font-size: 32px;
+    }
+
+    .placecon h3 small {
+        font-size: 16px;
+    }
+
+    .placecon {
+        text-align: center;
+        padding: 40px;
+    }
+
+    .degree figure {
+        width: 210px;
+    }
+
+
+    .clip h3 {
+        font-size: 40px;
+    }
+
+    .immersion .swiper {
+        width: 100%;
+        height: 100%;
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    .clip {
+        height: 160px;
+        width: 160px;
+        top: -60px;
+    }
+    
+}
+
+@media(max-width:768px) {
+    .container {
+        padding: 0 20px;
+    }
+
+    .banner .admi .ad h6 {
+        font-size: 18px;
+    }
+
+    .banner .admi .ad h6 span {
+        font-size: 10px;
+        top: -5px;
+    }
+
+    .banner .admi .ad p {
+        font-size: 10px;
+    }
+
+    .banner .admi .ad {
+        padding: 10px;
+    }
+
+    .banner .admi .ad .item {
+        padding: 0 10px;
+    }
+
+    .corporate .heading h2 {
+        padding-bottom: 20px;
+    }
+
+    .scholarships::after {
+        width: calc(100% - 40px);
+    }
+
+    .scholarships .cli .clip {
+        padding: 20px 15px;
+    }
+
+    .scholarships .nav .nav-link {
+        font-size: 16px;
+    }
+
+    .scholarships::after {
+        height: 36.5%;
+    }
+
+    .fullCon::after {
+        width: calc(100% - 20px);
+        height: 54%;
+    }
+
+    .fullCon {
+        padding: 20px 0px 20px 20px;
+    }
+
+    .nm figcaption {
+        font-size: 20px;
+        padding-bottom: 15px;
+        margin-top: 45px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .nm figcaption span {
+        font-size: 16px;
+    }
+
+    .banner .admi .ad .item {
+        width: 33%;
+    }
+
+    .banner .admi .ad {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px 0;
+    }
+
+    .banner .admi .ad .item:nth-child(3) {
+        border: none;
+    }
+
+    .innercon {
+        width: 100%;
+    }
+
+
+    .placement .row>* {
+        padding: 0;
+    }
+
+    .placecon {
+        padding: 20px;
+        padding-bottom: 0;
+    }
+
+    .degree figure {
+        width: 100%;
+    }
+
+    .degree .swiper-slide {
+        padding: 10px;
+    }
+}
+
+@media(max-width:576px) {
+    .banner {
+        background-position: 23%;
+    }
+
+    .logo {
+        width: 110px;
+    }
+
+    .container {
+        padding: 0 15px;
+    }
+
+    .banner h1 {
+        font-size: 12px;
+    }
+
+    .banner h2 {
+        font-size: 43px;
+    }
+
+    .banner h3 {
+        font-size: 18px;
+    }
+
+    .banner h4 {
+        font-size: 10px;
+        padding: 10px 0 20px;
+    }
+
+    .banner {
+        padding: 100px 0 0px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    p,
+    li {
+        font-size: 14px;
+    }
+
+    .corporate .heading {
+        padding-right: 15px;
+        padding-bottom: 20px;
+    }
+
+    .scholarships figure img {
+        width: 45%;
+    }
+
+    .scholarships figure {
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    .scholarships .nav .nav-link {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .scholarships h3 {
+        font-size: 14px;
+        padding: 5px;
+    }
+
+    .scholarships .cli {
+        flex-wrap: balance;
+    }
+
+    .scholarships .cli .clip {
+        height: 30vw;
+        width: 30vw;
+    }
+
+    .scholarships .cli .clip h4 {
+        font-size: 12px;
+    }
+
+    .scholarships::after {
+        height: 100%;
+        width: calc(100% - 30px);
+    }
+
+    .scholarships .nav .nav-link.active {
+        color: #002e73;
+        font-weight: 900;
+        background: transparent;
+    }
+
+    .nm figcaption {
+        font-size: 14px;
+        padding-bottom: 10px;
+        margin-top: 25px;
+    }
+
+    .nm figcaption span {
+        font-size: 12px;
+    }
+
+    .fullCon .heading h2 {
+        font-size: 20px;
+    }
+
+    .fullCon::after {
+        width: calc(100% - 20px);
+        height: 57%;
+    }
+
+    .lftSlider {
+        padding-bottom: 40px;
+    }
+
+    .star-sec .row>div {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .star-box {
+        padding: 40px 20px;
+    }
+
+    .star-sec h3 {
+        font-size: 42px;
+    }
+
+    .star-sec p {
+        font-size: 13px;
+    }
+
+    .star-sec .row>div:nth-child(3) {
+        display: block;
+    }
+
+    .manage-asp::before {
+        width: 100%;
+        z-index: -1;
+        height: 40%;
+        display: none;
+    }
+
+    .stats-box {
+        clip-path: none;
+        padding: 20px;
+    }
+
+    .num-boxx .row>div:nth-child(2) {
+        border-right: none;
+    }
+
+    .num-boxx .row>div {
+        margin-bottom: 30px;
+    }
+
+    .yrSlider .swiper-slide {
+        height: 300px;
+    }
+
+    .journey-slider {
+        height: 260px;
+    }
+
+    .edge-img img {
+        height: 320px;
+        min-height: 320px;
+        object-fit: cover;
+    }
+
+    .edge-box h4 {
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        font-size: 26px;
+        text-align: center;
+    }
+    .edge-box h4:active{
+        bottom: 40px;
+    }
+
+    .manRight-box {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .mahindra-edge {
+        padding: 30px 20px;
+    }
+
+    .heading p br {
+        display: none;
+    }
+
+    .ylw-shape {
+        width: 80%;
+        margin: 10px auto 0px;
+    }
+
+    .manage-asp .heading h2 {
+        text-align: center;
+        color: #000;
+        position: relative;
+        z-index: 99;
+        background: unset;
+    }
+
+    .manage-asp {
+        padding-top: 0;
+    }
+
+    .manage-asp .heading p {
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .num-sec {
+        padding: 0;
+        margin-top: -20px;
+    }
+
+    .manage-asp .heading h2 br {
+        display: none;
+    }
+
+    .manage-asp .heading h2 {
+        text-align: center;
+    }
+
+    .manage-asp .heading h2 span {
+        color: #000;
+    }
+
+    .fullCon .col-lg-6 {
+        margin-top: 0;
+        padding-right: 40px;
+    }
+
+    .corporate .heading {
+        text-align: center;
+    }
+
+    .experience .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+    }
+
+    .innercon {
+        border-right: 0;
+        border-bottom: 2px solid white;
+    }
+
+    .innercon {
+        border-right: 0;
+        border-bottom: 2px solid white;
+    }
+
+    .placement .col-lg-4:last-child .innercon {
+        border: none;
+
+    }
+
+    .innercon {
+        margin: 0;
+    }
+
+
+
+    .degree .swiper-slide img {
+        max-width: 75%;
+    }
+
+    .campus {
+        padding-bottom: 0;
+    }
+
+    .immersion .container {
+        padding: 0 15px;
+    }
+
+    .immersion p {
+        padding-right: 0;
+    }
+
+    .immersion .swiper-pagination-bullet-active {
+        width: 90px;
+    }
+
+    section {
+        padding: 30px 0;
+    }
+
+    .heading h2 {
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    .placement .col-lg-4:nth-child(3) .innercon {
+        border-bottom: 2px solid #fff;
+    }
+
+    .immersion {
+        padding-bottom: 20px;
+    }
+
+    .fullCon .heading {
+        text-align: center;
+    }
+
+    footer p {
+        color: white;
+        font-size: 10px;
+    }
+
+    footer {
+        padding: 20px 0 60px;
+    }
+
+    .scholarships .cli {
+        flex-wrap: balance;
+        margin-top: 70px !important;
+        gap: 20px;
+    }
+
+    .mobi-manage {
+        display: block;
+    }
+
+    .manage-asp .heading {
+        text-align: center;
+        display: none;
+    }
+
+    .immersion p {
+        padding-right: 0;
+        text-align: center;
+        padding-top: 0;
+    }
+
+    .immersion .swiper-pagination {
+        text-align: center;
+    }
+
+    .immersion .swiper {
+        padding-bottom: 50px;
+    }
+
+    .campus .heading h2 {
+        letter-spacing: -1px;
+        left: 0;
+    }
+    .manRight-box p {
+        width: 100%;
+        font-size: 14px;
+        padding-right: 10px;
+    }
+    .experience .heading {
+        margin-bottom: 20px;
+    }
+    .edgeSlider .swiper-slide{
+        transform: scale(1);
+    }
+    .degree .swiper-slide img{
+        height: 40px;
+    }
+     .edgeSlider .swiper-slide-active .edge-box h4{
+        bottom: 50px;
+    }
+    .star-sec .row{
+        border-bottom: unset;
+    }
+    .placement {
+        padding: 0px 0;
+    }
+    .fullCon::after {
+        width: calc(100% - 15px);
+        height: 57%;
+    }
+    .fullCon {
+        padding: 20px 0px 140px 20px;
+    }
+}
